@@ -1,0 +1,7 @@
+.venv/
+AI/
+generator/
+flashcard/
+__pycache__/
+*.pyc
+.env
